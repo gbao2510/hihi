@@ -5,7 +5,7 @@
 ## 1. Danh sách thành viên
 | STT | Họ và Tên | Vai trò | Module đảm nhiệm |
 |---|---|---|---|
-| 1 | [Tên TV6] | Nhóm trưởng | `gui_actions.py` (Tích hợp, UI, Demo) |
+| 1 | [Ngô Gia Bảo] | Nhóm trưởng | `gui_actions.py` (Tích hợp, UI, Demo) |
 | 2 | [Tên TV1] | Thành viên | `server_core.py` (Lõi Server TCP) |
 | 3 | [Tên TV2] | Thành viên | `server_router.py` (Bộ định tuyến JSON) |
 | 4 | [Tên TV3] | Thành viên | `network_worker.py` (Luồng mạng Client) |
